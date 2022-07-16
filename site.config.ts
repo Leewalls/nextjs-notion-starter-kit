@@ -19,6 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'lidatou233',
   github: 'Leewalls',
+  zhihu:'zhihuyonghu',
   linkedin: '',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
@@ -27,7 +28,7 @@ export default siteConfig({
   // page-specific values will override these site-wide defaults
   defaultPageIcon: null,
   defaultPageCover: null,
-  defaultPageCoverPosition: 1,
+  defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
   isPreviewImageSupportEnabled: true,
