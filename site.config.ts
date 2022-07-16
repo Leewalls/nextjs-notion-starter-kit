@@ -2,24 +2,24 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  rootNotionPageId: '4a35235027264bc0bc632f96168f1494',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: 'fde5ac74eea345278f004482710e1af3',
+  rootNotionSpaceId: '7e8bd48aff5d4affbddb3d98f9e44227',
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: '1997年过去了',
+  domain: 'https://www.notion.so/leewalls97-space/1997-4a35235027264bc0bc632f96168f1494',
+  author: 'Lee Walls',
 
   // open graph metadata (optional)
   description: 'Personal site of Travis Fischer aka Transitive Bullshit',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'lidatou233',
+  github: 'Leewalls',
+  linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
@@ -55,11 +55,11 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'About',
-      pageId: '8d0062776d0c4afca96eb1ace93a7538'
+      pageId: 'About-5a3badc2715e4db4b4cfd1b68a6d7c1e'
     },
     {
       title: 'Contact',
-      pageId: '9a7ddf2973444067bbc5ce0a4e0e0058'
+      pageId: 'Contact-47ff60b51bfc41df98a0abede763960f'
     }
   ]
 })
