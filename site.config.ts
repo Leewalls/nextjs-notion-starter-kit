@@ -10,7 +10,7 @@ export default siteConfig({
 
  // basic site info (required) 
  name: '1997年过去了', 
- domain: 'https://www.notion.so/leewalls97-space/1997-4a35235027264bc0bc632f96168f1494', 
+ domain: 'https://http://www.leewalls.space/', 
  author: 'Lee Walls', 
   
   // open graph metadata (optional)
