@@ -64,10 +64,3 @@ export default siteConfig({
    }
   ]
 })
-<script src="https://utteranc.es/client.js"
-        repo="Leewalls/nextjs-notion-starter-kit"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
