@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'lidatou233',
   github: 'Leewalls',
-  woshipm:'u/774282',
+  // woshipm:'u/774282',
   // zhihu:'ling-chen-61-66-3',
   // instagram:'lidatou233',
   linkedin: '',
